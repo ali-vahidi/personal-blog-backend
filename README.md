@@ -1,8 +1,9 @@
 # Personal Blog – Backend
 
-This repository contains the **backend part** of a full-stack **MERN** project built with **Node.js**, **Express.js**, and **MongoDB**.
+The backend part of a full-stack MERN project  
+Built with Node.js, Express.js, and MongoDB  
+Responsible for routing, models, controllers, and server setup
 
-I was responsible for the backend – including routing, models, controllers, and server setup.
 
 ## Project Structure
 
