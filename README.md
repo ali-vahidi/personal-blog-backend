@@ -19,6 +19,7 @@ mern-blog/
 - npm (v8 or higher)
 - MongoDB (running locally)
 
+
 ## Setup Instructions
 
 1. Navigate to the project root:
